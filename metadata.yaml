@@ -1,0 +1,27 @@
+_repo: What-Price-Peace_67294
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Libby, Frederick J.
+    gutenberg_agent_id: '54200'
+    url: http://www.gutenberg.org/2009/agents/54200
+description: ''
+gutenberg_issued: '2022-02-01'
+identifiers:
+  gutenberg: '67294'
+language: en
+pgterms:marc904: https://archive.org/details/whatpricepeace00libb
+pgterms:marc905: 20220129075550libby
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Model Printing Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: What Price Peace?
+url: http://www.gutenberg.org/ebooks/67294
